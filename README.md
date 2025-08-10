@@ -1,80 +1,84 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Привет, я Матвей Захаров! 
 
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25"> Обо мне
-Инженер-математик, специализирующийся на моделировании сложных динамических систем. Разрабатываю и оптимизирую математические модели для задач вычислительной физики, биологии и медицины с использованием современных вычислительных технологий.
+### Инженер-математик | Python-разработчик 
 
 ---
 
 ## <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="25"> Образование
-| 📚 Учебное заведение | 📅 Период | 🎯 Специализация |
-|---------------------|-----------|------------------|
-| **ПМГМУ им. Сеченова** | 2022–2026 | Механика и математическое моделирование |
-| **Институт вычислительной математики им. Г.И. Марчука** | 2024-2026 | Вычислительные технологии геофизики и биомеханики |
+
+- **ПМГМУ им. Сеченова** (2022–2026)  
+  Механика и математическое моделирование
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="25"> Ключевые проекты
-
-### 🔬 Модель репликации вируса гепатита B (HBV)
-- **Технологии:** Julia, DifferentialEquations.jl, PyPlot, SALib
-- **Достижения:**
-  - Реализовал модель из 37 нелинейных дифференциальных уравнений
-  - Провел анализ чувствительности и калибровку на клинических данных
-  - Результаты в рецензировании для журнала Q1
-
-### 🌬️ Моделирование воздушных потоков в бронхах
-- **Технологии:** Python, FEMPy, PyVista
-- **Достижения:**
-  - Решил уравнения неразрывности и энергии методом конечных элементов
-  - Провел анализ турбулентности при обструкции
-  - Выявил зоны повышенного давления в бифуркациях
-
-### 🧠 Модель роста глиобластомы
-- **Технологии:** Python, NumPy, SciPy, Matplotlib
-- **Достижения:**
-  - Реализовал квазилинейное уравнение Фишера-Колмогорова
-  - Использовал метод Крэнка-Николсона и TVD-RK3
-  - Провел анализ влияния диффузии на пролиферацию клеток
-
-### ⚡ Модель динамики апоптоза
-- **Технологии:** Python, SymPy, SciPy, SALib
-- **Достижения:**
-  - Разработал систему из 5 дифференциальных уравнений
-  - Провел анализ чувствительности с использованием SALib
-  - Результаты в рецензировании для журнала Q2
-
+## 💼 Опыт работы <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="25">
+- **ООО "ТПК "ОРЁЛ""** (202X-н.в.)  
+  Разработка систем для оптимизации логистических процессов
+  
 ---
+
+## 🔬 Ключевые проекты
+
+### 📊 Система мониторинга цен (price-monitor)
+```markdown
+Технологии: Python, BeautifulSoup, Selenium, PostgreSQL
+Достижения:
+✓ Автоматизированный сбор цен с 50+ поставщиков
+✓ Анализ динамики цен и выявление аномалий
+✓ Интеграция с внутренними системами учета
+```
+
+📦 Система управления складом (orlov-ss)
+```markdown
+Технологии: Django, React, PostgreSQL, Docker
+Достижения:
+✓ Разработка модуля управления запасами
+✓ Оптимизация размещения товаров на складе
+✓ Снижение времени обработки заказов на 30%
+```
+
+📈 Прогнозирование спроса (demand-forecasting)
+```markdown
+Технологии: Python, Pandas, Scikit-learn, TensorFlow
+Достижения:
+✓ Реализация моделей прогнозирования спроса
+✓ Точность прогноза до 92% на исторических данных
+✓ Интеграция с системой планирования закупок
+```
+
+⚡ Оптимизация логистических процессов (tpc_orel_optimization)
+```markdown
+Технологии: Python, OR-Tools, GeoPandas, FastAPI
+Достижения:
+✓ Разработка алгоритмов оптимизации маршрутов
+✓ Снижение транспортных расходов на 15%
+✓ Внедрение системы в 5 филиалах компании
+```
 
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25"> Технические навыки
 
-### 🧮 Математика
+###Программирование <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="25">
 <div>
-  <img src="https://img.shields.io/badge/Linear%20Algebra-007ACC?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numerical%20Methods-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Probability%20Theory-4CAF50?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stochastic%20Analysis-9C27B0?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-### ⚙️ Механика
+###Базы данных <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25">
 <div>
-  <img src="https://img.shields.io/badge/Computational%20Mechanics-FF5722?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Continuum%20Mechanics-607D8B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-### 💻 Программирование
+###Инструменты и технологии <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="25">
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white" />
-</div>
-
-### 🛠️ Инструменты
-<div>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 ---
