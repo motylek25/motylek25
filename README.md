@@ -74,7 +74,6 @@
 </div>
 
 ### Инструменты и технологии <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="25">
-
 <div>
 <a href="https://www.docker.com" target="_blank">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -89,7 +88,6 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </a>
 </div>
-
 ---
 
 ## 📬 Контакты
