@@ -58,7 +58,7 @@
 Библиотеки: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Statsmodels, Prophet
 Обработка данных: Feature-engine, Missingno
 Визуализация: Matplotlib, Seaborn, Plotly
-База данных: PostgreSQL, Redis для кэширования
+База данных: ClickHouse, Redis для кэширования
 
 Бизнес-результаты:
 Повышение точности прогнозирования до 92% на горизонте 3 месяцев, что превышает отраслевые стандарты
