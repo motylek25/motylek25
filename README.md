@@ -80,20 +80,10 @@
 ---
 
 ## 📬 Контакты
-<div>
-  <!-- Email с текстовой подсказкой -->
-  <a href="mailto:mattew.zakharov.03@mail.ru" title="Email: mattew.zakharov.03@mail.ru">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
+<div>  
   <!-- Telegram -->
   <a href="https://t.me/vzgladov">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Написать в Telegram" />
-  </a>
-  
-  <!-- Телефон -->
-  <a href="tel:+79956824507">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Позвонить" />
   </a>
   
   <!-- WhatsApp -->
@@ -106,8 +96,8 @@
 
 ### 📧 Альтернативные способы связи:
 - **Email:** `mattew.zakharov.03@mail.ru` (скопируйте этот адрес)
-- **Телефон:** `+7 (995) 682-45-07` (для звонка и WhatsApp)
-
+- **Телефон:** `+7 (995) 682-45-07` (для звонка)
+  
 ---
 
 ## <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="25"> GitHub Статистика
