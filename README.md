@@ -58,7 +58,7 @@
 
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25"> Технические навыки
 
-###Программирование <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="25">
+### Программирование <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="25">
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -66,14 +66,14 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-###Базы данных <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25">
+### Базы данных <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25">
 <div>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-###Инструменты и технологии <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="25">
+### Инструменты и технологии <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="25">
 <div>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
