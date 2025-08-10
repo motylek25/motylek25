@@ -81,9 +81,9 @@
 
 ## 📬 Контакты
 <div>
-  <!-- Email с текстовой подсказкой -->
-  <a href="mailto:mattew.zakharov.03@mail.ru" title="Email: mattew.zakharov.03@mail.ru">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <!-- Email с копированием в буфер обмена -->
+  <a href="#" onclick="navigator.clipboard.writeText('mattew.zakharov.03@mail.ru'); alert('Email скопирован в буфер обмена!'); return false;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Скопировать email" />
   </a>
   <a href="https://t.me/vzgladov">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Написать в Telegram" />
