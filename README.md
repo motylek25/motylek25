@@ -41,7 +41,7 @@
 - Кредитный скоринг (Australian Credit)
   - стек: scikit‑learn (LogReg) + Pipeline (impute, One‑Hot, StandardScaler), permutation importance
   - результат: ROC‑AUC/PR‑AUC, порог по стоимости ошибок, перевод p(bad) → кредитный скор 300–900, сохранение модели и score_new()
-  - репозиторий: https://github.com/motylek25/credit_scoring
+  - репозиторий: https://github.com/motylek25/credit_scoring_ml
 
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25"> Технические навыки
 
