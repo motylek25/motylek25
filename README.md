@@ -28,15 +28,6 @@
   - стек: SQLite/SQL
   - результат: логическая/физическая модель, история цен, soft‑delete, пересчёт total, лимиты купонов
   - репозиторий: https://github.com/motylek25/mini_shop_db
-
-- Дашборд SampleSuperstore (Streamlit)
-  - стек: Streamlit + Plotly, автодетект CSV, фильтры, KPI, категории/штаты, экспорт
-  - репозиторий: https://github.com/motylek25/Dashboard
-
-- RFM + Cohort Retention + LTV
-  - стек: pandas, seaborn/matplotlib; чистая retention‑heatmap и LTV (медиана + топ‑когорты)
-  - результат: выручка концентрируется в высоких RFM‑сегментах; доля активных по когортам монотонно снижается с временем; кумулятивный LTV растёт с горизонтом и постепенно стабилизируется
-  - репозиторий: https://github.com/motylek25/rfm_pl_cohorts_pl_ltv
   
 - Кредитный скоринг (Default of Credit Card Clients, UCI/Kaggle)
   - стек: Python (pandas, numpy), scikit‑learn (LogisticRegression + StandardScaler, HistGradientBoosting), TensorFlow/Keras (простой MLP), визуализация — Matplotlib/Seaborn; permutation importance; сохранение моделей (joblib/TF)
