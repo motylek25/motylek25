@@ -31,7 +31,7 @@
   
 - Кредитный скоринг (Default of Credit Card Clients, UCI/Kaggle)
   - стек: Python (pandas, numpy), scikit‑learn (LogisticRegression + StandardScaler, HistGradientBoosting), TensorFlow/Keras (простой MLP), визуализация — Matplotlib/Seaborn; permutation importance; сохранение моделей (joblib/TF)
-  - результат: ROC‑AUC ≈ 0.80–0.83, PR‑AUC ≈ 0.38–0.45, F1 ≈ 0.47–0.50 на тесте; перевод p(bad) → кредитный скор 300–900 (score_new())
+  - результат: ROC‑AUC ≈ 0.724–0.776, PR‑AUC ≈ 0.520–0.553, F1 ≈ 0.5–0.58 на тесте; перевод p(bad) → кредитный скор 300–900 (score_new())
   - репозиторий: https://github.com/motylek25/credit_scoring_system
 
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25"> Технические навыки
